@@ -4,7 +4,7 @@ I am currently working as a Data Engineer at [**Shell India Market Pvt Ltd**](ht
 
 In the past, I have worked with [**TCS**](https://www.tcs.com/) as IT Analyst. 
 
-I am an Data enthusiast and spend my spare time building up AI Models
+I am an Data enthusiast and spend my spare time building ML and DL Models.
 
 
 ### Things I'm good at :fire:
