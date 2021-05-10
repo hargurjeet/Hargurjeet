@@ -21,4 +21,4 @@ I am an Data enthusiast and spend my spare time building ML and DL Models.
 
 ### How to reach me 📱
 
-[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919035828125) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/hargurjeet/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://gurjeet333.medium.com/) [<img src="https:
+[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919035828125) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/hargurjeet/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://www.rohitswami.com/) [<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@gurjeet333)
