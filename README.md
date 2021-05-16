@@ -11,7 +11,7 @@ I am an Data enthusiast and spend my spare time building ML and DL Models.
 
 **Domain:** Data Science, Explainatory Data Analysis, Machine Learning, Deep Learning, Natural Language Processing, Data Visualization and Data Visualization.
 
-**Project Links:** [Data Science Portfolio Proeject](https://github.com/hargurjeet/Portfolio-Projects/blob/main/README.md), [Data Analysis Uisng Python](https://github.com/hargurjeet/Data-Analysis-Using-Python), [Deep Learning Projects](https://github.com/hargurjeet/DeepLearning), [Machine Learning Projects](https://github.com/hargurjeet/MachineLearning)
+**Project Links:** [Data Science Portfolio Projects](https://github.com/hargurjeet/Portfolio-Projects/blob/main/README.md), [Data Analysis Uisng Python](https://github.com/hargurjeet/Data-Analysis-Using-Python), [Deep Learning Projects](https://github.com/hargurjeet/DeepLearning), [Machine Learning Projects](https://github.com/hargurjeet/MachineLearning)
 
 **Languages:**  Python, SQL, HTML.
 
