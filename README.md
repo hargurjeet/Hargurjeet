@@ -17,6 +17,8 @@ I am an Data enthusiast and spend my spare time building ML and DL Models.
 
 **Framework:** Flask, Bootstrap.
 
+**Cloud Platforms:** Azure, Heroku
+
 **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, SciPy, PyTorch, Keras and Tensorflow.
 
 **Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics.
