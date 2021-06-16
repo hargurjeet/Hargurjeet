@@ -28,7 +28,7 @@ I am an Data enthusiast and spend my spare time building ML and DL Models.
 **My Blogs** <img src="https://img.icons8.com/windows/64/000000/blog-logo.png"/>
 
 
-I like writing about Data science and my work is published with recognized publishers contributing with research in this area. My blogs can be accessed below
+I like writing about Data science and my work is published with publishers contributing with research in this area. My blogs can be accessed below
 
   - [Exploratory Data Analysis of Zomato Restaurant data](https://blog.jovian.ai/explanatory-data-analysis-of-zomato-restaurant-data-71ba8c3c7e5e)
   - [Training Feed Forward Neural Network(FFNN) on GPU — Beginners Guide](https://medium.com/mlearning-ai/training-feed-forward-neural-network-ffnn-on-gpu-beginners-guide-2d04254deca9)
