@@ -39,6 +39,7 @@ I like writing about Data science and my work is published with publishers contr
   - [PyTorch - Training Fruit 360 Classifier Under 5 mins]()
   - [Deep Learning for Beginners Using TensorFlow](https://gurjeet333.medium.com/cnn-german-traffic-signal-recognition-benchmarking-using-tensorflow-accuracy-80-d069b7996082)
   - [Fake or Not ? Twitter Disaster Tweets](https://gurjeet333.medium.com/fake-or-not-twitter-disaster-tweets-f1a6b2311be9)
+  - [NLP — Detecting Fake News On Social Media](https://medium.com/mlearning-ai/nlp-detecting-fake-news-on-social-media-aa53ff74f2ff)
 
 
 ### How to reach me 📱
