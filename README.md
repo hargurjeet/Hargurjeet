@@ -4,7 +4,7 @@ I am currently working as a Data Engineer at [**Shell India Market Pvt Ltd**](ht
 
 In the past, I have worked with [**TCS**](https://www.tcs.com/) as IT Analyst. 
 
-I am a Data Science practitioner, I write tutorials, teach and build ML/DL Models at kaggle in my spare time.
+I am a Data Science practitioner, I write tutorials, teach, open source contributor and build ML/DL Models at kaggle.
 
 
 ### Things I'm good at :fire:
