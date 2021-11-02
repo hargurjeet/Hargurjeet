@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Hargurjeet
 
-I am currently working as a Data Engineer at [**Shell India Market Pvt Ltd**](https://www.shell.in). I come with an extensive experience of working with different technologies including Data Exploration, Data Science, Machine Learning and Deep Learning.
+I am currently working as a Data Scientist at [**Shell India Market Pvt Ltd**](https://www.shell.in). I come with an extensive experience of working with different technologies including Data Exploration, Data Science, Machine Learning and Deep Learning.
 
 In the past, I have worked with [**TCS**](https://www.tcs.com/) as QA Engineer. 
 
