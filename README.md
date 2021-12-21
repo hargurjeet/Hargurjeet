@@ -15,7 +15,7 @@ I am a Data Science practitioner, I write tutorials, teach, open source contribu
 
 **Languages:**  Python, SQL, HTML.
 
-**Framework:** Flask, Bootstrap.
+**Deep Learning Framework:** Tensorflow, PyTroch.
 
 **Cloud Platforms:** Azure, Heroku
 
@@ -25,12 +25,13 @@ I am a Data Science practitioner, I write tutorials, teach, open source contribu
 
 **Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics.
 
-**Training & Recent Certificaitons:** [Microsoft Azure AI Fundamentals](https://github.com/hargurjeet/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_AI900.pdf), [Microsoft Data Fundamentals](https://github.com/hargurjeet/Certificates/blob/main/Microsoft_Certified_Professional_CertificateDP900.pdf), [Microsoft Azure Fundamentals](https://github.com/hargurjeet/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_AZ900.pdf), [Data Analysis with Python:Zero to Pandas](https://jovian.ai/certificate/MFQTCMRWGY), [Deep Learning with PyTorch: Zero to GANs](https://jovian.ai/certificate/MFQTIMZSGE), [Natural Language Processing in TensorFlow](https://coursera.org/share/40b75c7ca30ae94fa6f4fc2f019d1fa2), [Data Engineering Foundations](https://www.credly.com/badges/762edcac-c9f9-4a86-9034-537ef5de66c5/public_url), [Building Deep Learning Applications with Keras 2.0](https://github.com/hargurjeet/Certificates/blob/main/CertificateOfCompletion_Building%20Deep%20Learning%20Applications%20with%20Keras%202.0.pdf), [Deep Learning Face Recognition](https://github.com/hargurjeet/Certificates/blob/main/CertificateOfCompletion_Deep%20Learning%20Face%20Recognition.pdf), [Deep Learning: Image Recognition](https://github.com/hargurjeet/Certificates/blob/main/CertificateOfCompletion_Deep%20Learning%20Image%20Recognition.pdf), [Advanced NoSQL for Data Science](https://github.com/hargurjeet/Certificates/blob/main/CertificateOfCompletion_Advanced%20NoSQL%20for%20Data%20Science.pdf), [Statistics Foundtions](https://github.com/hargurjeet/Certificates/blob/main/CertificateOfCompletion_Statistics%20Foundations%201.pdf)
+**Training & Recent Certificaitons:** 
+<br> All my certification can be accessed [here](https://github.com/hargurjeet/Certificates)
 
 **My Blogs** <img src="https://img.icons8.com/color/64/000000/blog.png"/>
 
 
-I like writing about Data science and my work is published with publishers contributing with research in this area. Some of my blogs can be accessed below. You can follow my medium profile to know more
+I like writing about Data science and my work is published with publishers contributing with research in this area. Some of my blogs can be accessed below. You can follow my [medium](https://gurjeet333.medium.com/) profile to know more
 
 
   - [Machine Learning with Python: Implementing XGBoost and Random Forest](https://gurjeet333.medium.com/machine-learning-with-python-implementing-xgboost-and-random-forest-fd51fa4f9f4c)
