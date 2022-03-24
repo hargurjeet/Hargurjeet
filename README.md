@@ -2,7 +2,7 @@
 
 I am currently working as a Data Scientist at [**Shell India Market Pvt Ltd**](https://www.shell.in). I come with an extensive experience of working with different technologies including Data Exploration, Data Science, Machine Learning and Deep Learning.
 
-In the past, I have worked with [**TCS**](https://www.tcs.com/) as QA Engineer. 
+In the past, I have worked with [**TCS**](https://www.tcs.com/) as IT Engineer. 
 
 I am a Data Science practitioner, I write tutorials, teach, open source contributor and build ML/DL Models at kaggle.
 
