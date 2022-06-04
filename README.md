@@ -17,7 +17,7 @@ I am a Data Science practitioner, I write tutorials, teach, open source contribu
 
 **Deep Learning Framework:** Tensorflow, PyTroch.
 
-**Cloud Platforms:** Azure, Heroku
+**Cloud Platforms:** Azure, Heroku, GCP
 
 **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, SciPy, PyTorch, Keras and Tensorflow.
 
