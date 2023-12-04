@@ -35,33 +35,6 @@
 - **Cloud Platforms:** Azure, GCP, HuggingFace Codespaces
 - **Visualization Tools:** Power BI, Spotfire
 
-
-
-
-
-I am currently working as a Senior Data Scientist at [**British Telecom**](https://www.bt.com/). I come with an extensive experience of working with different technologies including Data Exploration, Machine Learning and Building AI application using LLMs.
-
-In the past, I have worked with [**Shell India Market Pvt Ltd**](https://www.shell.in/) as Data Scientist. 
-
-I have done engineering in the filed of Electronics and Commnuication and currently pursing my master from [**Liverpool John Moores University**](https://www.ljmu.ac.uk/)
-
-My hobbies includes writing tutorials, teach, content creation and build ML/DL Models at kaggle.
-
-
-### Things I'm good at :fire:
-
-Data Science, Explainatory Data Analysis, Data Visualization, Machine Learning, Natural Language Processing, Vector Databases and Large Language Models (LLM's)
-
-**Project Links:** [Data Science Portfolio Projects](https://github.com/hargurjeet/Portfolio-Projects/blob/main/README.md), [Data Analysis Uisng Python](https://github.com/hargurjeet/Data-Analysis-Using-Python), [Deep Learning Projects](https://github.com/hargurjeet/DeepLearning), [Machine Learning Projects](https://github.com/hargurjeet/MachineLearning)
-
-**Languages:**  Python, SQL, HTML.
-
-**Deep Learning Framework:** Tensorflow, PyTroch.
-
-**Cloud Platforms:** Azure, GCP, HuggingFace Codespaces.
-
-**Vsiualization Tools:** Power BI, Spotfire
-
 **Training & Recent Certificaitons:** 
 <br> All my certification can be accessed [here](https://github.com/hargurjeet/Certificates)
 
