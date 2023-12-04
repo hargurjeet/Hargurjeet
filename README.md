@@ -1,5 +1,44 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Hargurjeet
 
+# Hi there, I'm Hargurjeet! 👋
+
+🔭 I'm currently working as a Senior Data Scientist at [**British Telecom**](https://www.bt.com/).
+
+🎓 I have a degree in Electronics and Communication Engineering and I'm currently pursuing a master's degree from [**Liverpool John Moores University**](https://www.ljmu.ac.uk/)
+
+🌱 I have extensive experience in Data Exploration, Machine Learning, and building AI applications using LLMs.
+
+👨‍💻 In the past, I worked with  [**Shell India Market Pvt Ltd**](https://www.shell.in/) as a Data Scientist.
+
+💡 My hobbies include writing tutorials, teaching, content creation, and building ML/DL models on Kaggle.
+
+## Things I'm good at 🔥
+- Data Science
+- Statistics 
+- Data Visualization
+- Machine Learning
+- Natural Language Processing
+- Vector Databases
+- Large Language Models (LLMs)
+- Azure OpenAI serivces
+- MLOPs - Azure, GCP, Mflow, Airflow
+
+## Projects
+- [Data Science Portfolio Projects](https://github.com/hargurjeet/Portfolio-Projects/blob/main/README.md)
+- [Data Analysis Using Python](https://github.com/hargurjeet/Data-Analysis-Using-Python)
+- [Deep Learning Projects](https://github.com/hargurjeet/DeepLearning)
+- [Machine Learning Projects](https://github.com/hargurjeet/MachineLearning)
+
+## Languages and Tools
+- **Languages:** Python, SQL, HTML
+- **Deep Learning Frameworks:** TensorFlow, PyTorch
+- **Cloud Platforms:** Azure, GCP, HuggingFace Codespaces
+- **Visualization Tools:** Power BI, Spotfire
+
+
+
+
+
 I am currently working as a Senior Data Scientist at [**British Telecom**](https://www.bt.com/). I come with an extensive experience of working with different technologies including Data Exploration, Machine Learning and Building AI application using LLMs.
 
 In the past, I have worked with [**Shell India Market Pvt Ltd**](https://www.shell.in/) as Data Scientist. 
