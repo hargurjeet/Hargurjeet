@@ -4,6 +4,8 @@ I am currently working as a Senior Data Scientist at [**British Telecom**](https
 
 In the past, I have worked with [**Shell India Market Pvt Ltd**](https://www.shell.in/) as Data Scientist. 
 
+I have done engineering in the filed of Electronics and Commnuication and currently pursing my master from [**Liverpool John Moores University**](https://www.ljmu.ac.uk/)
+
 My hobbies includes writing tutorials, teach, content creation and build ML/DL Models at kaggle.
 
 
