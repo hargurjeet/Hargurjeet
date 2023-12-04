@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Hargurjeet
 
-I am currently working as a Senior Data Scientist at [**British Telecom**](https://www.bt.com/). I come with an extensive experience of working with different technologies including Data Exploration, Data Science, Machine Learning and Deep Learning.
+I am currently working as a Senior Data Scientist at [**British Telecom**](https://www.bt.com/). I come with an extensive experience of working with different technologies including Data Exploration, Machine Learning and Building AI application using LLMs.
 
 In the past, I have worked with [**Shell India Market Pvt Ltd**](https://www.shell.in/) as Data Scientist. 
 
@@ -9,7 +9,7 @@ My hobbies includes writing tutorials, teach, content creation and build ML/DL M
 
 ### Things I'm good at :fire:
 
-**Domain:** Data Science, Explainatory Data Analysis, Machine Learning, Deep Learning, Natural Language Processing, Data Visualization and Data Visualization.
+Data Science, Explainatory Data Analysis, Data Visualization, Machine Learning, Natural Language Processing, Vector Databases and Large Language Models (LLM's)
 
 **Project Links:** [Data Science Portfolio Projects](https://github.com/hargurjeet/Portfolio-Projects/blob/main/README.md), [Data Analysis Uisng Python](https://github.com/hargurjeet/Data-Analysis-Using-Python), [Deep Learning Projects](https://github.com/hargurjeet/DeepLearning), [Machine Learning Projects](https://github.com/hargurjeet/MachineLearning)
 
@@ -17,13 +17,9 @@ My hobbies includes writing tutorials, teach, content creation and build ML/DL M
 
 **Deep Learning Framework:** Tensorflow, PyTroch.
 
-**Cloud Platforms:** Azure, Heroku, GCP
-
-**Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, SciPy, PyTorch, Keras and Tensorflow.
+**Cloud Platforms:** Azure, GCP, HuggingFace Codespaces.
 
 **Vsiualization Tools:** Power BI, Spotfire
-
-**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics.
 
 **Training & Recent Certificaitons:** 
 <br> All my certification can be accessed [here](https://github.com/hargurjeet/Certificates)
