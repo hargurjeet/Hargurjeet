@@ -6,6 +6,8 @@
 
 🎓 I have a degree in Electronics and Communication Engineering and I'm currently pursuing a master's degree from [**Liverpool John Moores University**](https://www.ljmu.ac.uk/)
 
+🎓 Additionally, I completed an Executive postgraduate program in Data Science and Artificial Intelligence from the [**International Institute of Information Technology Bangalore**](https://www.iiitb.ac.in/).
+
 🌱 I have extensive experience in Data Exploration, Machine Learning, and building AI applications using LLMs.
 
 👨‍💻 In the past, I worked with  [**Shell India Market Pvt Ltd**](https://www.shell.in/) as a Data Scientist.
