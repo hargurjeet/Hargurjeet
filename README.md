@@ -30,6 +30,7 @@
 - [Data Analysis Using Python](https://github.com/hargurjeet/Data-Analysis-Using-Python)
 - [Deep Learning Projects](https://github.com/hargurjeet/DeepLearning)
 - [Machine Learning Projects](https://github.com/hargurjeet/MachineLearning)
+- [Large Language Models](https://github.com/hargurjeet/LLMs)
 
 ## Languages and Tools
 - **Languages:** Python, SQL, HTML
