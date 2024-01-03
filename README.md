@@ -1,6 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Hargurjeet
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Hargurjeet
 
-# Hi there, I'm Hargurjeet! 👋
+
 
 🔭 I'm currently working as a Senior Data Scientist at [**British Telecom**](https://www.bt.com/).
 
