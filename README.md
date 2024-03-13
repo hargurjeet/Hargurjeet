@@ -22,7 +22,7 @@
 - Natural Language Processing
 - Vector Databases
 - Large Language Models (LLMs)
-- Azure OpenAI serivces
+- GCP Vertex AI and BigQuery, AWS Sagemaker, Azure OpenAI serivces
 - MLOPs - Azure, GCP, Mflow, Airflow
 
 ## Projects
