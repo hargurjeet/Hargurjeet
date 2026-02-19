@@ -1,10 +1,23 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Hargurjeet
+# Hi there, I'm Hargurjeet Singh 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=B06FFD&center=true&vCenter=true&width=940&lines=Senior+Data+Scientist+%7C+ML+Engineer;AI+%26+GenAI+Specialist;15%2B+Years+of+Experience;I+Engineer+AI+Systems;LLMs+%7C+RAG+%7C+MultiAgent+Systems;Built+%2410MM%2B+Value+AI+Solutions" alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6E40C9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hargurjeet/)
+[![GitHub](https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=B06FFD)](https://github.com/hargurjeet)
+[![Email](https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurjeet333@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-F7971E?style=for-the-badge&logo=medium&logoColor=white)](https://gurjeet333.medium.com/)
+
+</div>
 
 
 
 🔭 I'm currently working as a Senior Data Scientist at [**British Telecom**](https://www.bt.com/).
 
-🎓 I have a degree in Electronics and Communication Engineering and I'm currently pursuing a master's degree from [**Liverpool John Moores University**](https://www.ljmu.ac.uk/)
+🎓 I have a degree in Electronics and Communication Engineering and completed my master's degree from [**Liverpool John Moores University**](https://www.ljmu.ac.uk/)
 
 🎓 Additionally, I completed an Executive postgraduate program in Machine Learning and Artificial Intelligence from the [**International Institute of Information Technology Bangalore**](https://www.iiitb.ac.in/).
 
@@ -15,15 +28,16 @@
 💡 My hobbies include writing tutorials, teaching, content creation, and building ML/DL models on Kaggle.
 
 ## Things I'm good at 🔥
-- Data Science
-- Statistics 
-- Data Visualization
-- Machine Learning
-- Natural Language Processing
-- Vector Databases
+- Statistics & Machine Learning
+- Model Evaluation & Interpretability 
+- Generative AI
+- LLM Framework and API’s 
+- MLOps
+- Cloud Platforms - AWS, GCP
 - Large Language Models (LLMs)
 - GCP Vertex AI and BigQuery, AWS Sagemaker, Azure OpenAI serivces
-- MLOPs - Azure, GCP, Mflow, Airflow
+- Programming & Tools: Proficient in Python (pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), SQL, PySpark, 
+and SparkSQL, Linux for end-to-end data workflows and machine learning pipelines.
 
 ## Projects
 - [Data Science Portfolio Projects](https://github.com/hargurjeet/Portfolio-Projects/blob/main/README.md)
